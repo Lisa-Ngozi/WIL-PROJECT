@@ -1,2 +1,11 @@
-# WIL-PROJECT
-This repository showcases a front-end web application I developed for my Work Integrated Learning (WIL) project. Built with HTML, CSS, and JavaScript, it demonstrates my ability to create a functional and responsive interface. The project reflects my front-end skills and my creativity in designing intuitive digital experiences.
+# WIL-PROJECT: EduEquip Lite – Equipment Booking System
+EduEquip Lite is a streamlined web-based platform created to simplify how universities and colleges manage equipment reservations. Instead of relying on logbooks, paper forms, or long email exchanges, the system introduces a digital and organized way for students and staff to book campus resources such as cameras, laptops, projectors, and lab kits. The goal is to create a smooth, transparent, and reliable experience for anyone who needs access to shared academic tools.
+
+Built using HTML, CSS, and JavaScript, the system focuses on clarity, ease of use, and clean interaction flows. Each page is designed with a structured layout and intuitive navigation, making it simple for users to browse available equipment, check availability, and submit booking requests. The interface is shaped by EduEquip Lite’s brand identity—strong typography, defined colour palettes, and consistent spacing—to ensure a polished and professional user experience.
+
+JavaScript powers the interactive side of the platform, handling form validation, dynamic content display, and booking simulations that mirror how a real campus system would behave. While the current version does not include a backend or database, it demonstrates the full booking process using static data, making it easy to visualize how the system would operate once fully deployed.
+
+EduEquip Lite also addresses several challenges commonly found in academic environments. Manual booking often leads to double reservations, lost records, poor communication, and limited oversight. By digitizing these processes, the system helps reduce admin workload, improves equipment tracking, and increases accountability for both students and staff.
+
+This project reflects my ability to design a complete front-end solution, from wireframes and UI direction to functional pages and interactive features. It showcases not only technical proficiency in front-end development but also an understanding of real-world user needs in educational spaces. EduEquip Lite demonstrates how a focused, scalable, and user-centered digital system can positively impact resource management within learning institutions.
+
